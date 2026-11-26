@@ -1,0 +1,28 @@
+{
+  "club": {
+    "name": "Tennis Meilleraie Tillay",
+    "short": "TMT",
+    "town": "La Meilleraie-Tillay (85700)",
+    "email": "tennismeilleraietillay85@gmail.com",
+    "helloasso": "https://www.helloasso.com/associations/tennis-meilleraie-tillay/evenements/licences-2026-2027",
+    "description": "Un club convivial pour découvrir, pratiquer et partager le tennis, en loisir comme en compétition."
+  },
+  "news": [
+    {
+      "date": "2026-11-26",
+      "title": "Bienvenue sur le nouveau site du TMT",
+      "text": "Retrouvez ici les actualités, les équipes, les événements et les photos du club.",
+      "image": "",
+      "category": "Vie du club"
+    }
+  ],
+  "teams": [
+    {"name":"Seniors 1","division":"Pré-régionale","group":"Poule A","gender":"Masculine"},
+    {"name":"Seniors 2","division":"2e division","group":"Poule A","gender":"Masculine"},
+    {"name":"Seniors 3","division":"4e division","group":"Poule B","gender":"Masculine"},
+    {"name":"Féminines 1","division":"2e division","group":"Poule A","gender":"Féminine"},
+    {"name":"Féminines 2","division":"2e division","group":"Poule B","gender":"Féminine"}
+  ],
+  "matches": [],
+  "photos": []
+}
