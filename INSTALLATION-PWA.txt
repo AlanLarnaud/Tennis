@@ -1,0 +1,23 @@
+APPLICATION TMT — INSTALLATION PWA
+
+Cette version transforme le site en application web installable (PWA). Elle conserve le fonctionnement GitHub Pages.
+
+MISE EN LIGNE
+1. Décompresser le ZIP.
+2. Ouvrir le dossier tmt-site.
+3. Dans le dépôt GitHub AlanLarnaud/Tennis, remplacer les fichiers du site par TOUS les fichiers et dossiers contenus dans tmt-site (ne pas envoyer le dossier parent tmt-site lui-même si GitHub attend les fichiers à la racine).
+4. Vérifier que index.html, manifest.webmanifest et sw.js sont à la racine du dépôt, et que assets/ contient les icônes PWA.
+5. Commit sur main et attendre la publication GitHub Pages.
+
+INSTALLER SUR ANDROID
+Ouvrir https://alanlarnaud.github.io/Tennis/ avec Chrome. Utiliser « Installer l’application » ou « Ajouter à l’écran d’accueil ».
+
+INSTALLER SUR IPHONE
+Ouvrir le site dans Safari > bouton Partager > « Sur l’écran d’accueil » > Ajouter.
+
+A SAVOIR
+- L'application fonctionne avec l'adresse actuelle du site : https://alanlarnaud.github.io/Tennis/
+- Certaines pages déjà visitées restent accessibles hors connexion. Les données (résultats et actualités) sont rechargées depuis le site lorsqu'une connexion est disponible.
+- L'espace d'administration reste en ligne et n'est pas mis en cache.
+- Les notifications push ne sont pas activées dans cette première version : elles nécessiteront un service serveur et une configuration supplémentaires.
+- Pour un futur passage sur Google Play et l'App Store, on pourra emballer cette PWA avec une solution dédiée et vérifier les exigences de chaque store.
