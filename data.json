@@ -17,12 +17,174 @@
     }
   ],
   "teams": [
-    {"name":"Seniors 1","division":"Pré-régionale","group":"Poule A","gender":"Masculine"},
-    {"name":"Seniors 2","division":"2e division","group":"Poule A","gender":"Masculine"},
-    {"name":"Seniors 3","division":"4e division","group":"Poule B","gender":"Masculine"},
-    {"name":"Féminines 1","division":"2e division","group":"Poule A","gender":"Féminine"},
-    {"name":"Féminines 2","division":"2e division","group":"Poule B","gender":"Féminine"}
+    {
+      "name": "Seniors 1",
+      "division": "Pré-régionale",
+      "group": "Poule A",
+      "gender": "Masculine"
+    },
+    {
+      "name": "Seniors 2",
+      "division": "2e division",
+      "group": "Poule A",
+      "gender": "Masculine"
+    },
+    {
+      "name": "Seniors 3",
+      "division": "4e division",
+      "group": "Poule B",
+      "gender": "Masculine"
+    },
+    {
+      "name": "Féminines 1",
+      "division": "2e division",
+      "group": "Poule A",
+      "gender": "Féminine"
+    },
+    {
+      "name": "Féminines 2",
+      "division": "2e division",
+      "group": "Poule B",
+      "gender": "Féminine"
+    }
   ],
-  "matches": [],
+  "matches": [
+    {
+      "id": "match-01",
+      "date": "2026-12-06",
+      "team": "Seniors 2",
+      "opponent": "Tennis Vie le Fenouiller",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-02",
+      "date": "2026-12-06",
+      "team": "Seniors 3",
+      "opponent": "TC La Chaize-le-Vicomte",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-03",
+      "date": "2026-12-06",
+      "team": "Féminines 1",
+      "opponent": "TC La Chaize-le-Vicomte",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-04",
+      "date": "2026-12-06",
+      "team": "Seniors 1",
+      "opponent": "CT Chantonnaisien",
+      "location": "Extérieur · Chantonnay",
+      "result": ""
+    },
+    {
+      "id": "match-05",
+      "date": "2026-12-06",
+      "team": "Féminines 2",
+      "opponent": "TC de Venansault",
+      "location": "Extérieur · Venansault",
+      "result": ""
+    },
+    {
+      "id": "match-06",
+      "date": "2027-01-03",
+      "team": "Féminines 1",
+      "opponent": "TC Mouchampais",
+      "location": "Extérieur · Mouchamps",
+      "result": ""
+    },
+    {
+      "id": "match-07",
+      "date": "2027-01-17",
+      "team": "Féminines 2",
+      "opponent": "TC Mouchampais",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-08",
+      "date": "2027-01-17",
+      "team": "Seniors 3",
+      "opponent": "CT Chantonnaisien",
+      "location": "Extérieur · Chantonnay",
+      "result": ""
+    },
+    {
+      "id": "match-09",
+      "date": "2027-01-17",
+      "team": "Seniors 2",
+      "opponent": "TC Bellevigny",
+      "location": "Extérieur · Belleville-sur-Vie",
+      "result": ""
+    },
+    {
+      "id": "match-10",
+      "date": "2027-01-17",
+      "team": "Seniors 1",
+      "opponent": "TC Soullandais",
+      "location": "Extérieur · Soullans",
+      "result": ""
+    },
+    {
+      "id": "match-11",
+      "date": "2027-01-24",
+      "team": "Seniors 3",
+      "opponent": "TC Essartais",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-12",
+      "date": "2027-01-24",
+      "team": "Féminines 1",
+      "opponent": "Tennis Padel Club Pouzauges",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-13",
+      "date": "2027-01-31",
+      "team": "Seniors 1",
+      "opponent": "TE Dompierroise",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-14",
+      "date": "2027-01-31",
+      "team": "Seniors 2",
+      "opponent": "TC Poiroux",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-15",
+      "date": "2027-02-14",
+      "team": "Féminines 2",
+      "opponent": "TC Le Poiré-sur-Vie",
+      "location": "Domicile",
+      "result": ""
+    },
+    {
+      "id": "match-16",
+      "date": "2027-02-14",
+      "team": "Seniors 2",
+      "opponent": "TC Château-d'Olonne",
+      "location": "Extérieur · Les Sables-d'Olonne",
+      "result": ""
+    },
+    {
+      "id": "match-17",
+      "date": "2027-02-14",
+      "team": "Seniors 1",
+      "opponent": "TC Saint-Gilles",
+      "location": "Extérieur · Saint-Gilles-Croix-de-Vie",
+      "result": ""
+    }
+  ],
   "photos": []
 }

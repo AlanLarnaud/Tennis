@@ -36,3 +36,9 @@ A VERIFIER AVANT PUBLICATION
 - Vérifier les droits d'utilisation des photos, particulièrement les photos de mineurs.
 
 Le site est statique : aucun serveur payant ni base de données externe n'est nécessaire.
+
+MISE A JOUR — CALENDRIER ET RESULTATS
+- Les 17 rencontres à venir de la phase préliminaire 2026/2027 sont préchargées dans data.json (du 6 décembre 2026 au 14 février 2027).
+- Dans l'administration, la section « Saisir les résultats des rencontres programmées » permet de saisir le score directement à côté de chaque rencontre, puis de l'enregistrer individuellement.
+- Le résultat saisi apparaît dans la colonne « Résultat » de la page Équipes. Une rencontre n'est pas recréée : seul son champ result est mis à jour.
+- Les rencontres préchargées sont issues du calendrier public Lokaa qui indique reprendre les dates et horaires de la fédération. Vérifier toute modification de dernière minute sur Ten'Up.
