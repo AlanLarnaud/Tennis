@@ -18,6 +18,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Installer les dependances
+        run: python -m pip install requests
+
       - name: Tester les 5 pages Ten'Up
         run: python scripts/test_tenup.py
 
