@@ -1,0 +1,11 @@
+RESTAURATION DE LA PAGE EQUIPES ET RESULTATS TMT
+
+Ce correctif remet l'organisation des rencontres par équipe, les liens Ten'Up des cinq équipes et les couleurs victoire/défaite/nul.
+
+IMPORTANT : ne remplacez PAS data.json. Conservez le fichier data.json actuellement présent sur GitHub : il contient vos résultats, rencontres et actualités.
+
+Sur GitHub, remplacez uniquement ces trois fichiers à leur emplacement actuel :
+- equipes.html
+- app.js
+- styles.css
+Puis faites un commit.
